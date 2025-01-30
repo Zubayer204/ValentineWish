@@ -14,7 +14,7 @@ function getRandomInt(min, max) {
 }
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Awww! My baby!🥺";
+  question.innerHTML = "Awww! My baby! I knew it!🥺";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
